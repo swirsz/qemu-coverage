@@ -24,6 +24,10 @@ Code Block executions: 4 (# of instructions: 5)
 
 Credits: https://qemu.readthedocs.io/en/latest/devel/tcg-plugins.html
 
+Demo 1: https://www.youtube.com/watch?v=t-yfVCtaGkE
+
+Demo 2: https://www.youtube.com/watch?v=hLEAVZDaqYU
+
 Copyright (C) 2021, Steven Wirsz <swirsz@gmail.com>
 
 License: GNU GPL, version 2 or later.
